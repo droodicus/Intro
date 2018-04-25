@@ -6,7 +6,7 @@ If you'd like to browse all of my work, the full list of my repositories can be 
 
 *******MOBA scripts
 
-MOBA-style, top-down, right-click movement involves two C# scripts. The first is made for simply moving the controlled character to a selected empty space in the map (based on mouse position). The second is for pathing to a target enemy and starting an auot-attack loop on them when they are right-clicked.
+MOBA-style, top-down, right-click movement involves two C# scripts. The first is made for simply moving the controlled character to a selected empty space in the map (based on mouse position). The second is for pathing to a target enemy and starting an auto-attack loop on them when they are right-clicked.
 
 [Basic movement script.](https://github.com/droodicus/MOBA_Champ_Simulation/blob/master/MOBA%20Champion%20Template/Assets/Scripts/Right_Click_Movement.cs)
 
@@ -22,7 +22,7 @@ The MOBA's turret targeting functionality is split between two C# scripts. One s
 
 *******FPS scripts
 
-My FPS project is split between two selectable characters: One that uses a grappling hook and hitscan weapon, and another that uses a jetpack and projectile-based weapon (Overwatch players think Widowmaker and Pharah). First off is the jetpack system which uses a "fuel" resource (indicated on the UI by a gauge), with the addition of the ability to press Shift to use an additional upward burst of force.
+My FPS project is split between two selectable characters: One that uses a grappling hook and hitscan weapon, and another that uses a jetpack and projectile-based weapon (Overwatch players think Widowmaker and Pharah respectively). First off is the jetpack system which uses a "fuel" resource (indicated on the UI by a gauge), with the addition of the ability to press Shift to use an additional upward burst of force.
 
 [FPS dynamic jetpack system.](https://github.com/droodicus/FPS_Experimentation/blob/master/FPS/Assets/Scripts/Jetpack_Character/Jetpack.cs)
 
